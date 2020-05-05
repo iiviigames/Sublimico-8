@@ -1,4 +1,5 @@
-# Sublime PICO-8
+# Sublimico 8
+> *Originally titled*: [__Sublime PICO-8__](https://github.com/Neko250/sublime-PICO-8)
 
 PICO-8 plugin for the [Sublime Text 3](https://www.sublimetext.com/) editor.
 
